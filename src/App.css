@@ -1,0 +1,149 @@
+body{
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.all{
+  display: flex;
+  flex-direction: row;
+}
+
+.parent{
+  display: flex;
+  flex-direction: column;
+  background-color: #15161a;
+  width: 30%;
+  height: 95vh;
+}
+
+.son1{
+  text-align: center;
+}
+
+.logo{
+  width: 90px;
+  height: 80px;
+  margin-top: 20px;
+}
+
+.fp{
+  color: wheat;
+  font-size: 40px;
+  margin: 0% 0% 6% 0%;
+}
+
+.son2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input{
+  display: block;
+  width: 80%;
+  height: calc(2em + 0.75rem + 1px);
+  padding: 0rem 0.75rem;
+  margin: 10px;
+  font-size: 0.8rem;
+  font-family: Verdana;
+  text-align: center;
+  color: wheat;
+  background-color: #282c34;
+  font-weight: 500;
+  border: none;
+  border-radius: 2rem;
+}
+
+input:focus, .inpt:focus{
+  background-color: #15161a;
+  box-shadow: 0px 0px 15px 0px rgba(1.25, 1.25, 1.25, 1.25);
+  outline: 0;
+}
+
+button{
+  width: 86%;
+  height: calc(1em + 0.75rem + 1px);
+  border-radius: 2rem;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(238, 255, 2);
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.infotext{
+  margin: 6px;
+  position: relative;
+  overflow: auto;
+}
+
+.text{
+  color: wheat;
+  line-height: 1.5;
+}
+
+.infotext::-webkit-scrollbar {
+  width: 6px;
+}
+
+.infotext::-webkit-scrollbar-track {
+  background: #15161a;
+}
+
+.infotext::-webkit-scrollbar-thumb {
+  background-color: rgb(167, 175, 55);
+  border-radius: 20px;
+}
+
+.result{
+  width: 70%;
+  height: 95vh;
+  background-color: #282c34;
+}
+
+.result{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.parent_{
+  text-align: center;
+}
+
+.avatar{
+  max-width: 250px;
+  max-height: 250px;
+  border-radius: 100%;
+}
+
+.name{
+  color: whitesmoke;
+}
+
+.bio{
+  color: wheat;
+}
+
+p{
+  color: whitesmoke;
+}
+
+strong{
+  color: wheat;
+}
+
+.footer{
+  width: 100%;
+  height: 5vh;
+  text-align: center;
+  color: whitesmoke;
+  background-color: #0e0f11;
+}
+
+span{
+  position: relative;
+  top: 4px;
+}
+
