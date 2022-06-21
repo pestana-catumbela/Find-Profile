@@ -1,4 +1,4 @@
-##This site is a classic example of a Single Page application (SPA), where you can enjoy its beautiful infrastructure and of course its great functionality.
+<h1>This site is a classic example of a Single Page application (SPA), where you can enjoy its beautiful infrastructure and of course its great functionality.</h1>
 
 Here you can, by username, bring any and all profiles from github with your main data.
 
