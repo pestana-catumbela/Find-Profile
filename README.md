@@ -1,8 +1,8 @@
 <h1>This site is a classic example of a Single Page application (SPA), where you can enjoy its beautiful infrastructure and of course its great functionality.</h1>
 
-Here you can, by username, bring any and all profiles from github with your main data.
+<h1>Here you can, by username, bring any and all profiles from github with your main data.</h1>
 
-So make the most of it!
+<h1>So make the most of it!</h1>
 
 ![screenshot1](https://user-images.githubusercontent.com/99445645/174508085-474dfa00-a0ba-4527-8af5-9cbb435ed37c.PNG)
 ![screenshot2](https://user-images.githubusercontent.com/99445645/174508088-3ad0feb2-376d-46e7-8a4f-e4739f4c5781.PNG)
